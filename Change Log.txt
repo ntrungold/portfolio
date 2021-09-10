@@ -1,0 +1,13 @@
+The changes I made are as follows:
+
+My project idea for the portfolio of making a Family Feud Game. The idea would be that the site gives several 
+category options with several answers from "surveys" and allows the user to play through the game.
+I would like the site to make the proper game sounds as well to make it more realistic.
+
+1. I completed the "Basics of the Web" tutorial including HTML, CSS, and some JavaScript.
+I then implemented these into two base files for my website, an HTML doc and a CSS Doc.
+The website showcares headers, different designs via CSS. The goal is to make it look
+similar to the style and look of Family Feud through images and proper colors. 
+2. I created some practice TypeScript and JavaScript files but I was not far enough in each 
+tutorial to implement it meaningfully into the website. 
+3. I also reviewed Bootstrap.
