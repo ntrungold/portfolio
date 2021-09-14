@@ -1,5 +1,0 @@
-Next week I would like to:
-
-1. Finish the tutorials for Bootstrap, Javascript, and TypeScript.
-2. Implement these tools into the website
-3. Bring in elements of the Family Feud game including more images, the correct color scheme, and sounds. 
