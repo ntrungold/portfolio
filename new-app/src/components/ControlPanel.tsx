@@ -1,5 +1,7 @@
 import { Button, Col } from 'react-bootstrap';
-
-export function ControlPanel(): JSX.Element {
-    return <Col><Button>Control Panel </Button></Col>
+import {Set} from '../interfaces/set';
+export function ControlPanel({setSet}: {setSet: (s: Set)=>void}): JSX.Element {
+    return <Col>
+    <Button>New Game</Button>
+    </Col>
 }

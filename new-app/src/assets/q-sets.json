@@ -2,121 +2,16 @@
     {
       "ID": 1,
       "Question": "Q1",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
+      "Answer": "A1"
     },
     {
       "ID": 2,
       "Question": "Q2",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
+      "Answer": "A1"
     },
     {
       "ID": 3,
       "Question": "Q3",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 4,
-      "Question": "Q4",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 5,
-      "Question": "Q5",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 6,
-      "Question": "Q6",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 7,
-      "Question": "Q7",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 8,
-      "Question": "Q8",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 9,
-      "Question": "Q9",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
-    },
-    {
-      "ID": 10,
-      "Question": "Q10",
-      "Answer 1": "A1",
-      "Answer 2": "A2",
-      "Answer 3": "A3",
-      "Answer 4": "A4",
-      "Answer 5": "A5",
-      "Answer 6": "A6",
-      "Answer 7": "A7",
-      "Answer 8": "A8"
+      "Answer": "A1"
     }
   ]

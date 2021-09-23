@@ -1,5 +1,6 @@
 import {Col} from 'react-bootstrap'
-
-export function SetViewer(): JSX.Element {
-    return <Col><div>Set Viewer</div></Col>
+import {Set} from '../interfaces/set'
+export function SetViewer({set}: {set: Set}): JSX.Element {
+    return <Col>
+    <div>Question: {set.Question}</div></Col>
 }
