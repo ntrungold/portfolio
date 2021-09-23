@@ -1,15 +1,32 @@
 import React from 'react';
+import { useState } from "react";
 import  './index.css';
 import './Steve-Harvey.jpg';
 import Header from './components/Header';
+import Sets from './components/Sets';
 
 const App = () =>{
+
+    const[sets, setSets] = useState([
+        {
+            id: 1,
+            question: 'Question 1',
+        },
+        {
+            id: 2,
+            question: 'Question 2',
+        },
+    ])
+
+
     return (
         <div className='container'>
             <Header />
+            <Sets sets={sets} />
         </div>
     )
 }
+
 
 export default App
 
