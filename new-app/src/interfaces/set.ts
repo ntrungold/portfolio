@@ -1,7 +1,7 @@
 //export type SetType = string;
 
 export interface Set {
-    ID: number
-    Question: string
-    Answer: string
+    id: number
+    question: string
+    answer: string
 }

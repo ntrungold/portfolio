@@ -5,9 +5,12 @@ import { getRandomElement } from '../utilities/data';
 
 
 export function ControlPanel({setSet}: {setSet: (s: Set)=>void}): JSX.Element {
+    function setRandomSet() {
+        setSet(getRandomElement(SETS as Set[]))
+    }
+    
+    
     return <Col>
-    <Button onClick={
-        () => setSet(getRandomElement(SETS as Set[]))
-    }>New Game</Button>
+    <Button onClick={setRandomSet}>New Game</Button>
     </Col>
 }

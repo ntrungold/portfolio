@@ -1,17 +1,17 @@
 [
     {
-      "ID": 1,
-      "Question": "Q1",
-      "Answer": "A1"
+      "id": 1,
+      "question": "Q1",
+      "answer": "A1"
     },
     {
-      "ID": 2,
-      "Question": "Q2",
-      "Answer": "A1"
+      "id": 2,
+      "question": "Q2",
+      "answer": "A1"
     },
     {
-      "ID": 3,
-      "Question": "Q3",
-      "Answer": "A1"
+      "id": 3,
+      "question": "Q3",
+      "answer": "A1"
     }
   ]
