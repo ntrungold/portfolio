@@ -12,14 +12,14 @@ import {Set} from './interfaces/set';
 function App(): JSX.Element {
   const [activeSet, setActiveSet] = useState<Set>(SETS[0] as Set);
   const [answerRevealed, reveal] = useState<boolean>(false);
-
+  
   return (
     <Container className="App">
       <Row>
         <strong>Let's Play Family Feud!</strong>
       </Row> 
       <Row>
-        <ControlPanel setSet={setActiveSet}></ControlPanel>
+        <ControlPanel setSet={setActiveSet} ></ControlPanel>
         <SetViewer set={activeSet}></SetViewer>
       </Row>
       <Row>

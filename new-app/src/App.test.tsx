@@ -7,7 +7,7 @@ describe('App', ()=>{
     render(<App />);
   })
 })
-
+/*
 //some example tests to eventually use
 it("has the Control Panel when the application loaded"){
   const element = screen.getByText("Control Panel");
@@ -26,3 +26,4 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+*/
