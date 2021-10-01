@@ -42,10 +42,6 @@ function App(): JSX.Element {
           reveal8={reveal8} answerRevealed8= {answerRevealed8}
           ></GameBoard>
       </Row>
-
-      <Row>
-        
-      </Row>
         
     </Container>
   );
