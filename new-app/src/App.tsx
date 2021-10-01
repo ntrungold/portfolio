@@ -19,7 +19,7 @@ function App(): JSX.Element {
   const [answerRevealed6, reveal6] = useState<boolean>(false);
   const [answerRevealed7, reveal7] = useState<boolean>(false);
   const [answerRevealed8, reveal8] = useState<boolean>(false);
-
+  
   return (
     <Container className="App">
       <Row>
@@ -40,9 +40,10 @@ function App(): JSX.Element {
           reveal6={reveal6} answerRevealed6= {answerRevealed6}
           reveal7={reveal7} answerRevealed7= {answerRevealed7}
           reveal8={reveal8} answerRevealed8= {answerRevealed8}
-          
-          
           ></GameBoard>
+      </Row>
+      <Row>
+        
       </Row>
         
     </Container>

@@ -14,7 +14,8 @@ const BasePopupWrapper : React.FC<BasePopupWrapperProps> = ({onBackdropClick, is
     
     return (<Modal onBackdropClick={onBackdropClick}>
         <DesktopPopupContainer>
-            <Header>How to Play</Header>
+            <Header>Setup:</Header>
+           Split into two teams and select one person as the host. The official rules are located at the link provided at the bottom of the page.
         </DesktopPopupContainer>
     </Modal>);
 }

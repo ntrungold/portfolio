@@ -5,6 +5,7 @@ import { getRandomElement } from '../utilities/data';
 import React, {useState} from 'react';
 import BasePopupWrapper from './Popup/BasePopupWrapper';
 
+
 export function ControlPanel({setSet}: {setSet: (s: Set)=>void}): JSX.Element {
     function setRandomSet() {
         setSet(getRandomElement(SETS as Set[]))
@@ -15,12 +16,13 @@ export function ControlPanel({setSet}: {setSet: (s: Set)=>void}): JSX.Element {
     const togglePopup = () => {
         setIsPopupVisible(wasPopupVisible => !wasPopupVisible)
     }
+
     
     return <Col>
     
     <ButtonGroup aria-label="Button Set">
         <Button onClick={setRandomSet}>New Game</Button>
-        <Button onClick={togglePopup} variant="secondary">How to Play</Button>
+        <Button onClick={togglePopup} variant="secondary">Setup</Button>
         <BasePopupWrapper isPopupVisible={isPopupVisible} onBackdropClick= {togglePopup}/>
     </ButtonGroup>
     </Col>
