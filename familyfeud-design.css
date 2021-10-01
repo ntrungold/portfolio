@@ -52,7 +52,6 @@ h1{
     text-align: center;
     min-width: 600px;
     background: -webkit-linear-gradient(rgb(247, 136, 9), rgb(243, 239, 3));
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     border-style: dotted;
     border-width: thick;
